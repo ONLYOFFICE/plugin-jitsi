@@ -1,3 +1,7 @@
+## Information
+
+This repository is an archive of plugin-jitsi. Now it moved to the marketplace repository [onlyoffice.github.io](https://github.com/ONLYOFFICE/onlyoffice.github.io/tree/master/sdkjs-plugins/content).
+
 ## Overview
 
 Make audio and video calls right in the editors.
